@@ -1,6 +1,7 @@
 # Netflix Subscriptions Analysis (2021-2023)
 Analysisng Netflix subscriptions trend from 2021-2023. An interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/nguyen.huu.hanh/viz/NetflixSalesOverview/Dashboard1?publish=yes)
 
+![Installation Guide](https://github.com/studyy8202/Netflix-Sales-Analysis/blob/main/Screenshot%202024-08-22%20at%2013.06.21.png?raw=true)
 ## North Star Metrics and Dimensions
 - **Sales**: Total subscription sales from standard_ads, standard, premium plan.
 - **Plan Type**: Standard_ads, standard, premium.
